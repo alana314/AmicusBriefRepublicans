@@ -59,7 +59,6 @@ Jeff Van Drew	@CongressmanJVD
 Jim Banks	@RepJimBanks  
 Jim Hagedorn	@RepHagedorn  
 Jim Jordan	@Jim_Jordan  
-Jim Jordan	@Jim_Jordan  
 Jodey Arrington	@RepArrington  
 Joe Wilson	@RepJoeWilson  
 John Joyce	@RepJohnJoyce  
